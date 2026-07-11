@@ -3,9 +3,9 @@ message: "If you use this book, please cite it as below."
 authors: 
   - family-names: Dmitrochenko 
     given-names: Yuri 
-title: "Framework_1.3" 
-version: 1.0.1 
-doi: "10.5281/zenodo.21284267" 
-date-released: 2026-07-09 
+title: "Framework_1.4" 
+version: 1.0.0 
+doi: "10.5281/zenodo.21314421" 
+date-released: 2026-07-12 
 url: "https://github.com"
 license: CC-BY-NC-4.0
