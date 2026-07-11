@@ -10,7 +10,7 @@ This work is distributed under a **CC BY-NC 4.0** (Creative Commons Attributionâ
 
 > Dmitrochenko, Y. (2026). *Imunology of the Cellular Clone* (Framework 1.4). Israel.
 
-*DOI: 10.5281/zenodo.________*
+*DOI: 10.5281/zenodo.21314421*
 
 ## Contact
 
